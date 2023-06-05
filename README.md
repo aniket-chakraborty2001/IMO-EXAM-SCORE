@@ -1,4 +1,4 @@
-         #                           **PROJECT NAME: IMO-EXAM-SCORE PROJECT**
+         #                           PROJECT NAME: IMO-EXAM-SCORE PROJECT
 
 ##                                           Aim of this project
 In this project we try to understand whether there is any type of relationship between the numbers the student scores and year as well as hours of study by using different plots. Different plots like bar graphg, line graph, dor plot, pie chart, Donut chart, histogram is used here to make conclusions.
