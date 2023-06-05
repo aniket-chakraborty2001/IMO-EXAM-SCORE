@@ -1,10 +1,10 @@
-# PROJECT NAME:  IMO-EXAM-SCORE PROJECT
+         #                           **PROJECT NAME: IMO-EXAM-SCORE PROJECT**
 
-## Aim of this project
-#### In this project we try to understand whether there is any type of relationship between the numbers the student scores and year as well as hours of study by using different plots. Different plots like bar graphg, line graph, dor plot, pie chart, Donut chart, histogram is used here to make conclusions.
+##                                           Aim of this project
+In this project we try to understand whether there is any type of relationship between the numbers the student scores and year as well as hours of study by using different plots. Different plots like bar graphg, line graph, dor plot, pie chart, Donut chart, histogram is used here to make conclusions.
 
 
-### This project is completely done on basis of a data set that contain different scores of students in IMO examnination over past years. 
+### **This project is completely done on basis of a data set that contain different scores of students in IMO examnination over past years.** 
 
 ### In the begining of the project we have to undertsand the data set provided in the page in comma separated value or popularly knows as '.csv file'. Here are some specifications of the data set--
 * The data set contains 15 observations
