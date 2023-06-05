@@ -1,4 +1,4 @@
-         #                           PROJECT NAME: IMO-EXAM-SCORE PROJECT
+# PROJECT NAME: IMO-EXAM-SCORE PROJECT
 
 ##                                           Aim of this project
 In this project we try to understand whether there is any type of relationship between the numbers the student scores and year as well as hours of study by using different plots. Different plots like bar graphg, line graph, dor plot, pie chart, Donut chart, histogram is used here to make conclusions.
@@ -60,3 +60,9 @@ Using Histogram we can say the frequency of the Math Score. But using Density pl
 ### 11. Plotting a horizontal Bar chart:
 Here using horizontal bar chart I plot distribution of marks over years. To plot a horizontal bar chart **plt.barh()** function is used which comes under the matplotlib.pyploy library.
 
+### Conclusions:
+We conclude the following observations:
+* The student receives highest marks in each subject in 2017.
+* One possible reason behind this is high study hours.
+* As a result total marks is highset in 2017.
+* In 2017, Math and Computer are the main stakeholder of this score.
